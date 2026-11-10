@@ -1,0 +1,1 @@
+D:\lessonsunity\My project (1)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\g3l4i3k1\obj\arm64-v8a
